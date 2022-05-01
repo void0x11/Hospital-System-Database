@@ -1,7 +1,7 @@
 # Hospital-System-Database
 
 this project is database for hospital design at the 3rd form normalization. The database design is exist in png and draw.io file where you can see the ERR Diagram. to implement this database you need to run the code in file Tables_Creation.sql with Tables_Insertion.sql then Tables_Insertion - update.sql on your mysql-database server.
-The draw.io file is Availble for editing on the Design.
+The draw.io file is available for editing on the Design.
 
 The Conceptual Design for the Database:-
 
